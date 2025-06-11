@@ -2,7 +2,7 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
-[![test-and-lint](https://github.com/paalso/hexlet-ci-app/actions/workflows/test-and-lint.yml/badge.svg)](https://github.com/paalso/hexlet-ci-app/actions/workflows/test-and-lint.yml)
+[![CI](https://github.com/paalso/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)](https://github.com/paalso/hexlet-ci-app/actions/workflows/ci.yml)
 
 ## System requirements
 
